@@ -1,6 +1,6 @@
 {
   "name": "@tony_zhang/npm-pkg-ts-demo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm pkg ts demo",
   "main": "./dist/index/index.js",
   "types": "./dist/index.d.ts",
