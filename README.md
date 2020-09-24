@@ -21,4 +21,6 @@ npm publish --access public
 // need change registry
 npm config get registry
 npm config set registry=https://registry.npmjs.org
+
+npm unpublish  --force
 ```
