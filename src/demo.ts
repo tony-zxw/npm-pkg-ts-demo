@@ -3,7 +3,7 @@ export interface IDemo {
     getName(): string;
 }
 
-export class Demo implements IDemo {
+class Demo implements IDemo {
     name: string;
     constructor() {
         console.log('Demo constructor');
@@ -16,3 +16,5 @@ export class Demo implements IDemo {
     }
 
 }
+
+export { Demo };
